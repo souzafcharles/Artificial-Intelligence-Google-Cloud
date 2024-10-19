@@ -15,4 +15,4 @@
 
 - **Beginner: Introduction to Generative AI**
   - Prompt Design in Vertex AI
-    - [Generative AI with Vertex AI: Prompt Design](https://github.com/souzafcharles/Artificial-Intelligence-Google-Cloud/blob/master/Beginner-Introduction-to-Generative-AI/Prompt-Design-in-Vertex-AI/intro_prompt_design_v1_0_0.py)
+    - [Generative AI with Vertex AI: Prompt Design](https://github.com/souzafcharles/Artificial-Intelligence-Google-Cloud/tree/master/Beginner-Introduction-to-Generative-AI/Prompt-Design-in-Vertex-AI/Generative-AI-with-Vertex-AI-Prompt-Design)

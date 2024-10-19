@@ -12,4 +12,7 @@
 :snake: Python version: :three:
 
 ## Modules
- - Generative AI with Vertex AI: Prompt Design
+
+- **Beginner: Introduction to Generative AI**
+  - Prompt Design in Vertex AI
+    - Generative AI with Vertex AI: Prompt Design

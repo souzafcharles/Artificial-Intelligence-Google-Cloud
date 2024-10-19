@@ -5,7 +5,7 @@
 
 # ☁️ Course: Artificial Intelligence Google Cloud
 
-:triangular_flag_on_post: [Fundação FAT]([https://novo.universodev.com.br/](https://ensino.fundacaofat.org.br/eventos/inteligencia-artificial-google-cloud))
+:triangular_flag_on_post: [Fundação FAT](https://ensino.fundacaofat.org.br/eventos/inteligencia-artificial-google-cloud)
 
 :white_square_button: IDE used: JupyterLab
 

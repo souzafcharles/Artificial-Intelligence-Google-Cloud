@@ -18,4 +18,4 @@
     - [Generative AI with Vertex AI: Prompt Design](https://github.com/souzafcharles/Artificial-Intelligence-Google-Cloud/tree/master/Beginner-Introduction-to-Generative-AI/Prompt-Design-in-Vertex-AI/Generative-AI-with-Vertex-AI-Prompt-Design)
     - [Get Started with Vertex AI Studio](https://github.com/souzafcharles/Artificial-Intelligence-Google-Cloud/tree/master/Beginner-Introduction-to-Generative-AI/Prompt-Design-in-Vertex-AI/Get-Started-with-Vertex-AI-Studio)
     - [Getting Started with the Vertex AI Gemini API and Python SDK](https://github.com/souzafcharles/Artificial-Intelligence-Google-Cloud/tree/master/Beginner-Introduction-to-Generative-AI/Prompt-Design-in-Vertex-AI/Getting-Started-with-the-Vertex-AI-Gemini-API-and-Python-SDK)
-    - Prompt Design in Vertex AI: Challenge Lab
+    - [Prompt Design in Vertex AI: Challenge Lab](https://github.com/souzafcharles/Artificial-Intelligence-Google-Cloud/tree/master/Beginner-Introduction-to-Generative-AI/Prompt-Design-in-Vertex-AI/Prompt%20Design%20in%20Vertex%20AI%20Challenge%20Lab)
